@@ -1,0 +1,5 @@
+Acme Corp payment
+Invoice No: INV-2041
+Date: 2026-10-01
+Payment received - Project milestone website redesign
+Total: $1200.00

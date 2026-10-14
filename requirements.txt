@@ -1,0 +1,8 @@
+streamlit>=1.30
+pandas
+scikit-learn
+sentence-transformers
+torch --index-url https://download.pytorch.org/whl/cpu
+pdfplumber
+pypdf
+ollama
