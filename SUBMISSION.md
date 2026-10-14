@@ -14,7 +14,7 @@ Who would pay for this? Freelancers and small CAs who handle 100 to 500 bills a 
 
 There is no live link because this app runs offline by design. Here is a video where I run it on my laptop:
 
-[Paste your Loom / YouTube link here]
+https://www.loom.com/share/a50ae2c5b7c6461891b53c0e24375246
 
 What you will see in the video:
 1. I run `py -3.12 demo_cli.py`
